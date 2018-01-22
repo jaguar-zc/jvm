@@ -1,5 +1,8 @@
 《JVM必知必会》
 =======
+
+> 本开源书 forked from [JVM必知必会](https://github.com/chinageek/jvm)，作者为 [chinageek](https://github.com/chinageek)，欢迎大家 star 原作者的 [repo](https://github.com/chinageek/jvm)，以便获得最新更新，谢谢！
+
 ## 序
 
 这里记录的是本人对JVM的总结及学习笔记，如有不足或错误请到http://www.javaranger.com 留言，一经确认，立即修正
